@@ -1,0 +1,14 @@
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\bin\Debug\net9.0\find_virus.exe
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\bin\Debug\net9.0\find_virus.deps.json
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\bin\Debug\net9.0\find_virus.runtimeconfig.json
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\bin\Debug\net9.0\find_virus.dll
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\bin\Debug\net9.0\find_virus.pdb
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.AssemblyInfoInputs.cache
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.AssemblyInfo.cs
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.csproj.CoreCompileInputs.cache
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.dll
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\refint\find_virus.dll
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.pdb
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.genruntimeconfig.cache
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\ref\find_virus.dll
