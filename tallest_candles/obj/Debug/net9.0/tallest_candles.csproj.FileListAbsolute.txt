@@ -1,0 +1,15 @@
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\bin\Debug\net9.0\tallest_candles.exe
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\bin\Debug\net9.0\tallest_candles.deps.json
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\bin\Debug\net9.0\tallest_candles.runtimeconfig.json
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\bin\Debug\net9.0\tallest_candles.dll
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\bin\Debug\net9.0\tallest_candles.pdb
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.sourcelink.json
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.dll
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\refint\tallest_candles.dll
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.pdb
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\tallest_candles.genruntimeconfig.cache
+C:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\tallest_candles\obj\Debug\net9.0\ref\tallest_candles.dll

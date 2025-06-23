@@ -12,3 +12,4 @@ c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\De
 c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.pdb
 c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.genruntimeconfig.cache
 c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\ref\find_virus.dll
+c:\Users\Ricardo\source\repos\SLOTH_DISCORD\sloth_bytes_weekly\find_virus\obj\Debug\net9.0\find_virus.sourcelink.json
