@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Scalable solution that uses LINQ to find and remove specific filenames, while ignoring filenames which include excluded charsets
 using System;
 
 string RemoveVirus(string filesIn)
